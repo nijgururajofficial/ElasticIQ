@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+elasticsearch>=8.0.0
+python-multipart
+pdfminer.six
+PyPDF2
+python-docx
+requests
+tqdm
+google-auth
+google-auth-httplib2
+google-api-core
+

@@ -1,0 +1,15 @@
+fastapi>=0.68.0
+uvicorn[standard]>=0.15.0
+elasticsearch>=8.0.0
+python-multipart
+pdfminer.six
+python-docx
+requests
+tqdm
+numpy
+google-auth
+google-auth-httplib2
+google-api-core
+google-cloud-aiplatform
+python-dotenv
+PyPDF2

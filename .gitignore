@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+/frontend/node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build files
+/frontend/build/
+/dist/
+*.egg-info/
+
+# Environment and credentials
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/infra/credentials/
+*.pem
+*.key
+service-account.json
+*-sa-key.json
+vertex_ai_service_account.json
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Test coverage
+/coverage/
+.coverage
+htmlcov/
+
+# User uploads
+/uploads/
+
+# Cache
+.pytest_cache/
+.eslintcache
