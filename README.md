@@ -122,10 +122,3 @@ docker build -t elasticiq-backend .
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
-
-[Add your license information here]
-
-## 👥 Authors
-
-[Add author information here]
